@@ -1,0 +1,23 @@
+#container {
+    width: 400px;
+    background-color: bisque;
+    padding: 10px;
+}
+input{
+    width: 100%;
+    box-sizing: border-box;
+  }
+  ul,li{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  .ul-list{
+    margin: 15px ;
+    ;
+  }
+  .ul-list> li{
+    background-color: rgb(238, 190, 128);
+    padding: 2px;
+    bottom: 5px;
+  }
