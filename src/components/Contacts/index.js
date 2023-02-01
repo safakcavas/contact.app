@@ -7,17 +7,21 @@ import "./styles.css";
 function Contacts(props) {
   const [contacts, setContacts] = useState([
     {
-    fullname:'safak',
+    fullname:'Şafak',
     phone_number:'123456789',
   },
   {
-    fullname:'ömer',
+    fullname:'Ömer',
     phone_number:'987654321',
   },
   {
-    fullname:'ibo',
+    fullname:'İbrahim',
     phone_number:'432198765',
   },
+  {
+    fullname:'Erdem',
+    phone_number:'999777666'
+  }
   ]);
 
 
